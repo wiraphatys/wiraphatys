@@ -20,6 +20,6 @@ As a 1st-year Computer Engineering student at Chulalongkorn University, I'm deep
 
 <div width="100%" align="center"><a href="https://github.com/wiraphatys/E-Commerce-REST-API-with-Golang" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wiraphatys&repo=E-Commerce-REST-API-with-Golang&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/wiraphatys/income-expense-app" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wiraphatys&repo=income-expense-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br />
 
 <div width="100%" align="center"><a href="https://github.com/wiraphatys/ecommerce-ejs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wiraphatys&repo=ecommerce-ejs&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/wiraphatys/Handwritten-Digits-Recognition" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=wiraphatys&repo=Handwritten-Digits-Recognition&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
