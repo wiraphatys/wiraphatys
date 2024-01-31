@@ -1,4 +1,4 @@
-Hi 👋 My name is Wiraphat
+Hi, My name is Wiraphat
 =========================
 
 Computer Engineering student at Chulalongkorn u.
