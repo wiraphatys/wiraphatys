@@ -1,4 +1,4 @@
-![Image](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b){:height="200px" width="auto"}
+![Image](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b)
 
 Hi, My name is Wiraphat
 =========================
