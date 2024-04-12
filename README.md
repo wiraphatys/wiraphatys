@@ -1,6 +1,6 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="1000" height="300">
 
-Hi, My name is Wiraphat
+[Hi, My name is Wiraphat](https://banky-dev.vercel.app/)
 =========================
 
 Computer Engineering student at Chulalongkorn University
@@ -10,7 +10,6 @@ As a 1st-year Computer Engineering student at Chulalongkorn University, I'm deep
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [y.wiraphat@gmail.com](mailto:y.wiraphat@gmail.com)
-* [Portfolio Website](https://banky-dev.vercel.app/)
 
 <a href="https://www.github.com/wiraphatys" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/wiraphatys?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
