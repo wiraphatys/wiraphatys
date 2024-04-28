@@ -52,9 +52,8 @@ src="https://img.shields.io/github/followers/wiraphatys?logo=github&style=for-th
 
 ### API Architecture
 ![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=rest-api&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-4F0599?style=for-the-badge&logo=websocket&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-007D9C?style=for-the-badge&logo=grpc&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-1C2026?style=for-the-badge&logo=grpc&logoColor=white)
 
 
 ### Socials
